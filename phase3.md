@@ -79,8 +79,6 @@
 ---
 
 ## VLAN Interface
-VLAN Interface یک interface داخلی در Open vSwitch است که به یک VLAN مشخص تعلق دارد.  
-این interface معمولاً برای تخصیص IP و انجام تنظیمات لایه شبکه استفاده می‌شود.
 
 امکانات مربوط به VLAN Interface شامل:
 - ایجاد interface
@@ -99,7 +97,6 @@ VLAN Interface یک interface داخلی در Open vSwitch است که به یک
 
 ابزار سیستمی مورد نیاز:
 - `ovs-vsctl`
-- `ip`
 
 ---
 
